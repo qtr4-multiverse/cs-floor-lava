@@ -66,3 +66,26 @@ FLOORLAVA_ITEM_LONGFALLBOOTS = Сапоги Долгого Падения
 FLOORLAVA_ITEM_LONGFALLBOOTS_DESC = Полная неуязвимость к падению с любой высоты
 FLOORLAVA_ITEM_THERMALSUIT = Термокостюм
 FLOORLAVA_ITEM_THERMALSUIT_DESC = Защита от горячих поверхностей и газовых облаков
+
+[es]
+FLOORLAVA_PLAYER_WIN = ¡El jugador %n ganó la partida!
+FLOORLAVA_PLAYER_WIN_CHAT = ¡El jugador ^3%n^1 ganó la partida!
+FLOORLAVA_ROUND_DRAW = ¡Nadie ganó!
+FLOORLAVA_ROUND_DRAW_CHAT = ¡Nadie ganó!
+FLOORLAVA_TEAM_WIN_CHAT = ¡El equipo ^3%L^1 ganó la partida!
+FLOORLAVA_PURCHASE_HINT = Apreta la tecla <O> para comprar objetos.
+FLOORLAVA_LAVA_RISING = La lava está subiendo...
+FLOORLAVA_ITEM_GYMBALL = Pelota de gimnasio
+FLOORLAVA_ITEM_GYMBALL_DESC = Empuja enemigos cercanos con una fuerza explosiva
+FLOORLAVA_ITEM_BASKETBALL = Pelota de Basket
+FLOORLAVA_ITEM_BASKETBALL_DESC = Empuja enemigos con cada golpe
+FLOORLAVA_ITEM_BOXINGGLOVES = Guantes de Boxeo
+FLOORLAVA_ITEM_BOXINGGLOVES_DESC = Mayor fuerza de empuje
+FLOORLAVA_ITEM_WINEGRENADE = Granada de Vino
+FLOORLAVA_ITEM_WINEGRENADE_DESC = Aturde a los enemigos cercanos
+FLOORLAVA_ITEM_JETPACK = Mochila Propulsora
+FLOORLAVA_ITEM_JETPACK_DESC = Apreta 'SALTAR' en el aire para volar (capacidad de combustible limitada)
+FLOORLAVA_ITEM_LONGFALLBOOTS = Botas de caída
+FLOORLAVA_ITEM_LONGFALLBOOTS_DESC = No recibís daño al caer de cualquier altura
+FLOORLAVA_ITEM_THERMALSUIT = Traje Térmico
+FLOORLAVA_ITEM_THERMALSUIT_DESC = Te proteje en superficies calientes y de los gases tóxicos

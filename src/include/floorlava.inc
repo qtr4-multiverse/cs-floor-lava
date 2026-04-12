@@ -1,3 +1,16 @@
+/*
+    1.0.2
+      Fixes:
+        Fixed Amx Mod X 1.10 compatibility
+
+      Localization:
+        Added Spanish translation (by Maxi605)
+
+    1.0.1
+      Common:
+        Updated AMXX Modding Kit
+*/
+
 #if defined _floorlava_included
   #endinput
 #endif
