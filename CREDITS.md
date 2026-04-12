@@ -1,2 +1,3 @@
 - rflmm - Models
 - JusTGo - Original Mod
+- Maxi605 - Spanish Translation
