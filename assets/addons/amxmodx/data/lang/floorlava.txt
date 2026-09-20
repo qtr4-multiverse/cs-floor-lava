@@ -1,4 +1,5 @@
 [en]
+FLOORLAVA_SHOP_TITLE = The Floor is Lava
 FLOORLAVA_PLAYER_WIN = Player %n win the game!
 FLOORLAVA_PLAYER_WIN_CHAT = Player ^3%n^1 win the game!
 FLOORLAVA_ROUND_DRAW = No winners!
@@ -21,7 +22,8 @@ FLOORLAVA_ITEM_LONGFALLBOOTS_DESC = Take no damage from falling from any height
 FLOORLAVA_ITEM_THERMALSUIT = Thermal Suit
 FLOORLAVA_ITEM_THERMALSUIT_DESC = Protection from hot surface and gas clouds
 
-[uk]
+[ua]
+FLOORLAVA_SHOP_TITLE = Гаряча лава
 FLOORLAVA_PLAYER_WIN = Гравець %n переміг!
 FLOORLAVA_PLAYER_WIN_CHAT = Гравець ^3%n^1 переміг!
 FLOORLAVA_ROUND_DRAW = Переможців немає!
@@ -45,6 +47,7 @@ FLOORLAVA_ITEM_THERMALSUIT = Термокостюм
 FLOORLAVA_ITEM_THERMALSUIT_DESC = Захист від гарячих поверхонь та газових хмар
 
 [ru]
+FLOORLAVA_SHOP_TITLE = Пол — это лава
 FLOORLAVA_PLAYER_WIN = Игрок %n победил!
 FLOORLAVA_PLAYER_WIN_CHAT = Игрок ^3%n^1 победил!
 FLOORLAVA_ROUND_DRAW = Победителей нет!
@@ -68,6 +71,7 @@ FLOORLAVA_ITEM_THERMALSUIT = Термокостюм
 FLOORLAVA_ITEM_THERMALSUIT_DESC = Защищает от жара поднимающейся лавы.
 
 [es]
+FLOORLAVA_SHOP_TITLE = El Suelo es Lava
 FLOORLAVA_PLAYER_WIN = ¡El jugador %n ganó la partida!
 FLOORLAVA_PLAYER_WIN_CHAT = ¡El jugador ^3%n^1 ganó la partida!
 FLOORLAVA_ROUND_DRAW = ¡Nadie ganó!
