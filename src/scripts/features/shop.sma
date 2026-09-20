@@ -16,7 +16,7 @@ public plugin_init() {
 
   Shop_Register(FloorLava_Shop);
   Shop_SetFlags(FloorLava_Shop, Shop_Flag_ItemPage);
-  Shop_SetTitle(FloorLava_Shop, "The Floor is Lava Shop");
+  Shop_SetTitle(FloorLava_Shop, "FLOORLAVA_SHOP_TITLE", true);
   Shop_SetGuardCallback(FloorLava_Shop, "Callback_Shop_Guard");
 
   if (FloorLava_PlayerArtifact_IsRegistered(ARTIFACT(LongFallBoots))) {
