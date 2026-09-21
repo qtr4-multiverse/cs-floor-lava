@@ -374,17 +374,13 @@ public Round_OnExpired() {
 }
 
 public Round_CheckResult:Round_OnCanStartCheck() {
-  new iPlayersNum = 0;
-
   for (new pPlayer = 1; pPlayer <= MaxClients; ++pPlayer) {
-    if (!is_user_connected(pPlayer)) continue;
-    new iTeam = get_ent_data(pPlayer, "CBasePlayer", "m_iTeam");
-    if (iTeam != 1 && iTeam != 2) continue;
-
-    iPlayersNum++;
+    if (is_user_connected(pPlayer)) {
+      return Round_CheckResult_Continue;
+    }
   }
 
-  return iPlayersNum > 0 ? Round_CheckResult_Continue : Round_CheckResult_Supercede;
+  return Round_CheckResult_Supercede;
 }
 
 public Round_CheckResult:Round_OnCheckWinConditions() {
